@@ -14,7 +14,7 @@ namespace MobileApp
 			return new ContentPage
 			{
 				Content = new Label {
-					Text = "Hello, Forms !",
+					Text = "Hello, World !",
 					VerticalOptions = LayoutOptions.CenterAndExpand,
 					HorizontalOptions = LayoutOptions.CenterAndExpand,
 				},
